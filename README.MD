@@ -1,6 +1,8 @@
 # Context
-* [WearHacks Kitchener 2017][1]
-* 
+* __App Name:__ Focal
+* __Platform:__ Android w/ Muse Headband
+* __Where:__ [WearHacks Kitchener 2017][1]
+* __3rd place prize winner__
 
 # Team Members
 Aakarsh Madhavan, Andy Su, Carla Leal, Kenneth Zeng
