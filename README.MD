@@ -27,4 +27,4 @@ I tried a lot of different cool hardware which I have never been able to experie
 Right now, it only has basic functionality. We hope to include more functionality and analysis such as the ability to compare concentration between different subjects - for example, between English & Math (students may study preferentially). We may also switch libraries for the graphing to give an aesthetic upgrade to the app.
 
 
-[1]: http://example.com/ "Title"
+[1]: https://devpost.com/software/focal-ziyk7x "Focal @ Wearhacks"
