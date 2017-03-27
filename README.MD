@@ -3,6 +3,7 @@
 Aakarsh Madhavan, Andy Su, Carla Leal, Kenneth Zeng
 
 #Inspiration
+
 Finals are coming up and we have trouble focusing on revision. However, it's hard to gauge the efficiency of revision, it's all subjective. We have always heard of the guy who has "revised for like 8 hours" when in fact they've watched Youtube for 3, browsed Reddit for 3 and maybe revised for like 30 minutes. We wanted to create something that analyzes how efficiently we are revising. The metric that we chose was concentration - in the form of measuring brain waves. Our app shows real-time analytics of how well we are concentration and provides this data in the next session to compare how well we are paying attention.
 
 #What it does
