@@ -1,5 +1,6 @@
 # Context
-[1]: http://example.com/ "Title"
+* [WearHacks Kitchener 2017][1]
+* 
 
 # Team Members
 Aakarsh Madhavan, Andy Su, Carla Leal, Kenneth Zeng
@@ -24,3 +25,6 @@ I tried a lot of different cool hardware which I have never been able to experie
 
 # What's next for focal
 Right now, it only has basic functionality. We hope to include more functionality and analysis such as the ability to compare concentration between different subjects - for example, between English & Math (students may study preferentially). We may also switch libraries for the graphing to give an aesthetic upgrade to the app.
+
+
+[1]: http://example.com/ "Title"
